@@ -10,10 +10,9 @@ As this is just a test, there's no virus in the file(just a txt file).
 however, it proved that the attack is possible.
 
 Affected software:   
-|icon|name|
+|Icon|Name|
 |---|---
 |![Thunder Icon](7858EA73.PNG)|Thunder|
-----------
 
 Test:   
 >Author: * <Email name protected> 2019-06-03 23:07:05   
