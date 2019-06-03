@@ -1,0 +1,9 @@
+This is the fake file.
+The file (https://songsammy.github.io/link-poisoning/Test.txt) actrually doesn't exist.
+If you see this, that means the link poisoning has worked.
+For more information, please go to https://songsammy.github.io/link-poisoning/
+
+这是虚假文件
+这个文件(https://songsammy.github.io/link-poisoning/Test.txt)事实上不存在。
+如果你看到了这段话，说明链接投毒已经生效。
+你可以访问 https://songsammy.github.io/link-poisoning/ 来了解更多。
